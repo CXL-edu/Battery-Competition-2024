@@ -8,7 +8,7 @@
 
 得分情况2月23日第31名
 
-![得分情况2月23日第31名](C:\Users\Lenovo\Desktop\储能电池容量预测\fig\得分情况2月23日第31名.png)
+![得分情况2月23日第31名](fig/得分情况2月23日第31名.png)
 
 
 
@@ -66,13 +66,13 @@
 
 训练集数据的原始容量
 
-![data_raw](fig\data_raw.png)
+![data_raw](fig/data_raw.png)
 
 
 
 使用滑动窗口和线性插值替换掉异常值后的容量
 
-![data_replace_outlier](fig\data_replace_outlier.png)
+![data_replace_outlier](fig/data_replace_outlier.png)
 
 
 
